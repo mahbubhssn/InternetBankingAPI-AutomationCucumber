@@ -1,0 +1,12 @@
+mislbd:
+  oauth:
+    baseUrl: http://192.168.1.140:11087
+    refreshTokenUrl: /auth/realms/ababil/protocol/openid-connect/token
+    accesTokenUrl:
+    clientId: internet-banking
+    secret: 115177b3-39c9-432f-9d23-891b2f1cc2c9
+    userName: mocktest
+    password: Zxcv@1234
+
+  resource:
+    baseUrl: http://192.168.1.140:11080/mws
